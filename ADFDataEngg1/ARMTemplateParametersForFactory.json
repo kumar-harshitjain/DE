@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFDataEngg1"
+		},
+		"Sftp1_LS_password": {
+			"value": ""
+		},
+		"Sftp1_LS_properties_typeProperties_host": {
+			"value": "test.rebex.net"
+		},
+		"Sftp1_LS_properties_typeProperties_userName": {
+			"value": "demo"
+		}
+	}
+}
