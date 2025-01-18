@@ -5,6 +5,11 @@
 			"referenceName": "Sftp1_LS",
 			"type": "LinkedServiceReference"
 		},
+		"parameters": {
+			"A": {
+				"type": "string"
+			}
+		},
 		"annotations": [],
 		"type": "Binary",
 		"typeProperties": {
