@@ -1,0 +1,9 @@
+{
+	"name": "ADFDataEngg1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9f0519f-ba44-4dca-96ad-084b0c8b61e8",
+		"tenantId": "dadd457c-c36d-4779-92ac-ede69d5e1171"
+	}
+}
