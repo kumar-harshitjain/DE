@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
-			"A": {
+			"AA": {
 				"type": "string"
 			}
 		},
