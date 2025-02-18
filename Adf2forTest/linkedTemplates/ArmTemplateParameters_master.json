@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Adf2forTest"
+		},
+		"ADLS_LS_accountKey": {
+			"value": ""
+		},
+		"SQL_DB_LS_password": {
+			"value": ""
+		},
+		"Sftp1_LS_password": {
+			"value": ""
+		},
+		"ADLS_LS_properties_typeProperties_url": {
+			"value": "https://adlspractice1azureeng.dfs.core.windows.net/"
+		},
+		"SQL_DB_LS_properties_typeProperties_server": {
+			"value": "harshitsqldbserver.database.windows.net"
+		},
+		"SQL_DB_LS_properties_typeProperties_database": {
+			"value": "harshit26data"
+		},
+		"SQL_DB_LS_properties_typeProperties_userName": {
+			"value": "harshit26"
+		},
+		"Sftp1_LS_properties_typeProperties_host": {
+			"value": "test.rebex.net"
+		},
+		"Sftp1_LS_properties_typeProperties_userName": {
+			"value": "demo"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
