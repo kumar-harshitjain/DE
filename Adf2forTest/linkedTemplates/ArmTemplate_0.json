@@ -715,6 +715,11 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
+				"parameters": {
+					"tableName": {
+						"type": "string"
+					}
+				},
 				"variables": {
 					"TableName": {
 						"type": "String"
